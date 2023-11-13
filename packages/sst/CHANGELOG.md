@@ -1,5 +1,15 @@
 # @serverless-stack/cli2
 
+## 2.36.2
+
+### Patch Changes
+
+- [`5b88c84ea`](https://github.com/sst/sst/commit/5b88c84ea72bc43f71c700b9dd967b6147464ba8) Thanks [@fwang](https://github.com/fwang)! - Sites: fix S3Uploader resource id thrash with old Python uploader
+
+- [`4cb0b191c`](https://github.com/sst/sst/commit/4cb0b191cc45d2bfe14cb5ba7ad4623d2ed55208) Thanks [@fwang](https://github.com/fwang)! - Function: sort sourcemap by CDK path
+
+- [#3500](https://github.com/sst/sst/pull/3500) [`6a8b100dd`](https://github.com/sst/sst/commit/6a8b100ddbbda6a0177c5559561da013b1b7af9c) Thanks [@rubythulhu](https://github.com/rubythulhu)! - Make sourcemap ordering deterministic
+
 ## 2.36.1
 
 ### Patch Changes
